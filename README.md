@@ -1,3 +1,29 @@
+
+### Components
+- **ProductForm.js**: Component for adding and editing products.
+- **ProductList.js**: Component for displaying the list of products with filtering options.
+- **CustomButton.js**: Custom styled button using Ant Design.
+
+### Contexts
+- **ProductContext.js**: Context for managing product state (add, edit, delete).
+
+### Styles
+- **index.less**: Main stylesheet for the application.
+- **CustomButton.less**: Custom styles for the button component.
+
+## Libraries Used
+- [React](https://reactjs.org/)
+- [Ant Design](https://ant.design/)
+- [Less](http://lesscss.org/)
+- [craco](https://github.com/gsoft-inc/craco) for customizing Create React App configuration
+
+## Installation and Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/product-management-app.git
+   cd product-management-app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
