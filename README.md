@@ -1,3 +1,18 @@
+# Product Management Application
+
+## Project Title
+Product Management Application
+
+## Description
+A simple product management application built with React and Ant Design. It allows users to add, edit, delete, and filter products based on various criteria such as name, description, and category.
+
+## Features
+- Add new products
+- Edit existing products
+- Delete products
+- Filter products by name, description, and category
+
+## Overview of Folder/File Structure
 
 ### Components
 - **ProductForm.js**: Component for adding and editing products.
